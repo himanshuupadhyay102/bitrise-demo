@@ -3,7 +3,7 @@ default_step_lib_source: https://github.com/himanshuupadhyay102/Bitrise-React-Na
 project_type: android
 app:
   envs:
-  - MY_NAME: Himanshu
+  - MY_NAME: Himanshu upadhyay
 workflows:
   test:
     steps:
