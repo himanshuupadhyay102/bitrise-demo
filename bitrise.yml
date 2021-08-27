@@ -9,4 +9,4 @@ workflows:
     steps:
     - script@1.1.6:
         inputs:
-        - content: echo "Hello  ${MY_NAME}!"
+        - content: echo "Hello ${MY_NAME}!"
